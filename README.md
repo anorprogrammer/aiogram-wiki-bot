@@ -1,2 +1,2 @@
-# aiogram-echo-bot
+# aiogram-wiki-bot
 Aiogram kutubxonasida wikipedia bot 
